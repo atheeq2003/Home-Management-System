@@ -1,0 +1,67 @@
+.income_table_h,.ch_table_h,.dai_table_h,.tra_table_h,.heal_table_h{
+	font-size: medium;
+	font-weight: bold;
+	color: white;
+	background-color: blue;
+	font-family: Times New Roman;
+}
+
+.ent_table_h,.mis_table_h,.sav_table_h,.homeexp_table_h{
+	font-size: medium;
+	font-weight: bold;
+	color: white;
+	background-color: green;
+	font-family: Times New Roman;
+}
+.summary_table_h{
+	font-size: medium;
+	font-weight: bold;
+	color: white;
+	background-color: black;
+	font-family: Times New Roman;
+}
+
+.income_t_lr,.ch_t_lr,.dai_t_lr,.tra_t_lr,.heal_t_lr{
+		color: blue;
+	font-weight: bold;
+	font-size: medium;
+	text-align: center;
+}
+.sav_t_lr,.mis_t_lr,.ent_t_lr,.homeexp_t_lr{
+	color: green;
+	font-weight: bold;
+	font-size: medium;
+	text-align: center;
+}
+.summary_t_lr{
+	color: black;
+	font-weight: bold;
+	font-size: medium;
+	text-align: center;
+}
+table {
+	background-color: white;
+}
+
+table td{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+table td:last-child{
+	border-right: none;
+}
+
+table tr:last-child{
+	border-top: 4px double green;
+}
+
+table tr:first-child{
+	border-bottom:none;
+	border-top:none;
+}
+
+table tr{
+	padding-left: 2px;
+	color: black;
+
+}

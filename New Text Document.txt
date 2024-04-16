@@ -1,0 +1,70 @@
+https://cssauthor.com/bootstrap-admin-templates/
+
+Authontication
+	col1  : Homeid - varchar(10)
+	col2  : userid - varcahr(10)
+	col3  : password - varchar(10)
+	col4  : gmail - varchar(25)
+	col5  : mobileno - number
+	col6  : photo - bob
+	col7  : birthdate - Date(YYYY/MM/DD)
+	col8  : Gender - varchar(10)
+	col9  : profesion - varchar(20)
+	
+
+ 
+
+Bill Managemet
+	col1  : Homeid - varchar(10)
+	col2  : Userid - varchar(10)
+	col3  : Category - varchar(20)
+	col4  : Date - Date(YYYY/MM/DD)
+	col5  : Billing month - number
+	col6  : Amount- number
+	col7  : Last Date - Date(YYYY/MM/DD)
+	col8  : Pending Dues- number
+	col9  : Status - varchar(10)
+	col10 : Mod - varchar(10)
+	col11 : Reference no - varchar(20)
+	col12 : Recipe - bob
+
+DG locker
+	col1  : Homeid - varchar(10)
+	col2  : Userid - varchar(10)
+	col3  : Document name - varchar(20)
+	col4  : Document - bob
+	col5  : Date - Date(YYYY/MM/DD)
+	col6  : Last Date - Date(YYYY/MM/DD)
+	
+Expenditure
+	col1  : Homeid - varchar(10)
+	col2  : Userid - varchar(10)
+	col3  : Income - number
+	col4  : Children ex - number
+	col5  : Daily living - number
+	col6  : Home Expenses - number
+	col7  : Bussiness Expense - number
+	col8  : Entertainment - number
+	col9  : Obligation - number
+	col10 : Saving - number
+	col11 : profit/loss - number
+	
+Task Remainder
+	col1  : Homeid - varchar(10)
+	col2  : Userid - varchar(10)	
+	col3  : task - varchar(100)
+	col4  : task assignto - number 
+
+Insurance
+	col1  : Homeid - varchar(10)
+	col2  : Userid - varchar(10)
+
+
+
+
+Saving
+	col1  : Homeid - varchar(10)
+	col2  : Userid - varchar(10)
+	
+
+

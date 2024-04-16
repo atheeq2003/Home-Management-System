@@ -1,0 +1,47 @@
+table {
+	background-color: white;
+	border-collapse: collapse;
+	 
+}
+.ent_table_h,.mis_table_h,.sav_table_h,.homeexp_table_h,.summary_table_h,.income_table_h,.ch_table_h,.dai_table_h,.tra_table_h,.heal_table_h{
+	font-size:22px;
+	font-weight: bold;
+	color: white;
+	background-color: navy;
+	font-family: Times New Roman;
+}
+.sav_t_lr,.mis_t_lr,.ent_t_lr,.homeexp_t_lr,.summary_t_lr,.income_t_lr,.ch_t_lr,.dai_t_lr,.tra_t_lr,.heal_t_lr{
+	color: navy;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+
+}
+table tr{
+	text-align: center;
+	color: black;
+	font-size: 18px;
+	border: 1px solid #dddddd;
+	background-color: lightblue;
+}
+
+
+table td{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+table td:last-child{
+	border-right: none;
+	color: navy;
+}
+
+table tr:last-child{
+	border-top: 4px double blue;
+}
+
+table tr:first-child{
+	border-bottom:none;
+	border-top:none;
+}
+
+
